@@ -1,4 +1,9 @@
 <?php
+/*
+* Custom ACF field for the selector of Contacts for CRM Groundhogg. 
+* Styles and scripts are embedded in the PHP file as required by the project. 
+* If this code were implemented as a plugin, the styles and scripts would be moved to a separate file.
+*/
 
 if( ! class_exists( 'Groundhogg_Condition_Logic' ) ) :
 
